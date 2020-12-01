@@ -1,0 +1,76 @@
+{
+  "uuid": "d757fa64-79e1-4a2f-b109-9b145996038e-tr-0-1007",
+  "historyId": "SimpleElementsProject.SimpleElementsTests.ClickLink2",
+  "fullName": "SimpleElementsProject.SimpleElementsTests.ClickLink2",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-J0LTTOR"
+    },
+    {
+      "name": "testClass",
+      "value": "SimpleElementsProject.SimpleElementsTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "ClickLink2"
+    },
+    {
+      "name": "package",
+      "value": "SimpleElementsProject.SimpleElementsTests"
+    },
+    {
+      "name": "owner",
+      "value": "BeataJerzok-Palka"
+    },
+    {
+      "name": "tag",
+      "value": "Simple HTML elements for automation"
+    },
+    {
+      "name": "suite",
+      "value": "Simple elements test"
+    }
+  ],
+  "links": [],
+  "name": "ClickLink2",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "Validate that correct page is opened after link is clicked\n",
+  "steps": [
+    {
+      "name": "ClickLink2",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "cf1bcc3add354645a7a0c78169cc6be5-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1606676865039,
+      "stop": 1606676872878
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1606676865039,
+  "stop": 1606676872878
+}

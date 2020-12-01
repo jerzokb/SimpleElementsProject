@@ -1,0 +1,76 @@
+{
+  "uuid": "fee81deb-5c30-4997-8e3e-75baf5d6f8e4-tr-0-1003",
+  "historyId": "SimpleElementsProject.SimpleElementsTests.ClickButtonUsingID1",
+  "fullName": "SimpleElementsProject.SimpleElementsTests.ClickButtonUsingID1",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-J0LTTOR"
+    },
+    {
+      "name": "testClass",
+      "value": "SimpleElementsProject.SimpleElementsTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "ClickButtonUsingID1"
+    },
+    {
+      "name": "package",
+      "value": "SimpleElementsProject.SimpleElementsTests"
+    },
+    {
+      "name": "owner",
+      "value": "BeataJerzok-Palka"
+    },
+    {
+      "name": "tag",
+      "value": "Simple HTML elements for automation"
+    },
+    {
+      "name": "suite",
+      "value": "Simple elements test"
+    }
+  ],
+  "links": [],
+  "name": "ClickButtonUsingID1",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "description": "Validate that correct page is opened after button is clicked\n",
+  "steps": [
+    {
+      "name": "ClickButtonUsingID1",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "d17bf48915a947e6b1643d0bc802c2ad-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1606672650285,
+      "stop": 1606672662365
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1606672650285,
+  "stop": 1606672662365
+}

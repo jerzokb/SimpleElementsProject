@@ -1,0 +1,44 @@
+{
+  "uuid": "6eedc69e-5bb9-4176-843b-3a5dce240802-tc-0-1001",
+  "name": "SimpleElementsProject.SimpleElementsTests.ClickLink5",
+  "children": [
+    "3f3bff3e-d3c1-4ebe-b8e1-d834609916f8-tr-0-1010"
+  ],
+  "befores": [
+    {
+      "name": "SetupBeforeEachTestMethod",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1606673851220,
+      "stop": 1606673851220
+    }
+  ],
+  "afters": [
+    {
+      "name": "CleanUpAfterEveryTestMethod",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1606673851220,
+      "stop": 1606673851220
+    }
+  ],
+  "links": [],
+  "start": 1606673840000,
+  "stop": 1606673851230
+}

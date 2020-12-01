@@ -1,0 +1,80 @@
+{
+  "uuid": "64e2bc26-6a61-4cf8-bde2-3b7998d4be5b-tr-0-1006",
+  "historyId": "SimpleElementsProject.SimpleElementsTests.ClickLink1",
+  "fullName": "SimpleElementsProject.SimpleElementsTests.ClickLink1",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-J0LTTOR"
+    },
+    {
+      "name": "testClass",
+      "value": "SimpleElementsProject.SimpleElementsTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "ClickLink1"
+    },
+    {
+      "name": "package",
+      "value": "SimpleElementsProject.SimpleElementsTests"
+    },
+    {
+      "name": "owner",
+      "value": "BeataJerzok-Palka"
+    },
+    {
+      "name": "tag",
+      "value": "Simple HTML elements for automation"
+    },
+    {
+      "name": "suite",
+      "value": "Simple elements test"
+    }
+  ],
+  "links": [],
+  "name": "ClickLink1",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "  Expected string length 27 but was 26. Strings differ at index 26.\r\n  Expected: \"Link success - Ultimate QA1\"\r\n  But was:  \"Link success - Ultimate QA\"\r\n  -------------------------------------^\r\n",
+    "trace": "   w SimpleElementsProject.SimpleElementsTests.ClickLink1() w C:\\SelniumCSharpProjects\\SimpleElementsProject\\SimpleElementsTests.cs:wiersz 77\r\n"
+  },
+  "stage": "finished",
+  "description": "Validate that correct page is opened after link is clicked\n",
+  "steps": [
+    {
+      "name": "ClickLink1",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "  Expected string length 27 but was 26. Strings differ at index 26.\r\n  Expected: \"Link success - Ultimate QA1\"\r\n  But was:  \"Link success - Ultimate QA\"\r\n  -------------------------------------^\r\n",
+        "trace": "   w SimpleElementsProject.SimpleElementsTests.ClickLink1() w C:\\SelniumCSharpProjects\\SimpleElementsProject\\SimpleElementsTests.cs:wiersz 77\r\n"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "1282f5e9a67a4e76a458c2e28e24236d-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1606673805556,
+      "stop": 1606673814128
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1606673805556,
+  "stop": 1606673814128
+}

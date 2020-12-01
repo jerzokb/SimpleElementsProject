@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-run id="0" runstate="Runnable" testcasecount="9" result="Passed" total="9" passed="9" failed="0" inconclusive="0" skipped="0" asserts="15" engine-version="3.11.1.0" clr-version="4.0.30319.42000" start-time="2020-11-29 19:18:43Z" end-time="2020-11-29 19:19:58Z" duration="75.411956">
+  <command-line><![CDATA[nunit3-console.exe  C:\SelniumCSharpProjects\SimpleElementsProject\bin\Debug\SimpleElementsProject.dll]]></command-line>
+  <test-suite type="Assembly" id="0-1011" name="SimpleElementsProject.dll" fullname="C:\SelniumCSharpProjects\SimpleElementsProject\bin\Debug\SimpleElementsProject.dll" runstate="Runnable" testcasecount="9" result="Passed" start-time="2020-11-29 19:18:43Z" end-time="2020-11-29 19:19:58Z" duration="74.860056" total="9" passed="9" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="15">
+    <environment framework-version="3.12.0.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 10.0.18363.0" platform="Win32NT" cwd="C:\SelniumCSharpProjects\SimpleElementsProject\packages\NUnit.ConsoleRunner.3.11.1\tools" machine-name="DESKTOP-J0LTTOR" user="beata" user-domain="DESKTOP-J0LTTOR" culture="pl-PL" uiculture="pl-PL" os-architecture="x64" />
+    <settings>
+      <setting name="DisposeRunners" value="True" />
+      <setting name="WorkDirectory" value="C:\SelniumCSharpProjects\SimpleElementsProject\packages\NUnit.ConsoleRunner.3.11.1\tools" />
+      <setting name="ImageRuntimeVersion" value="4.0.30319" />
+      <setting name="ImageTargetFrameworkName" value=".NETFramework,Version=v4.7.2" />
+      <setting name="ImageRequiresX86" value="False" />
+      <setting name="ImageRequiresDefaultAppDomainAssemblyResolver" value="False" />
+      <setting name="RuntimeFramework" value="net-4.0" />
+      <setting name="NumberOfTestWorkers" value="8" />
+    </settings>
+    <properties>
+      <property name="_PID" value="22400" />
+      <property name="_APPDOMAIN" value="domain-" />
+    </properties>
+    <test-suite type="TestSuite" id="0-1012" name="SimpleElementsProject" fullname="SimpleElementsProject" runstate="Runnable" testcasecount="9" result="Passed" start-time="2020-11-29 19:18:43Z" end-time="2020-11-29 19:19:58Z" duration="74.843026" total="9" passed="9" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="15">
+      <test-suite type="TestFixture" id="0-1000" name="BaseTets" fullname="SimpleElementsProject.BaseTets" classname="SimpleElementsProject.BaseTets" runstate="Runnable" testcasecount="0" result="Passed" start-time="2020-11-29 19:18:43Z" end-time="2020-11-29 19:18:43Z" duration="0.000777" total="0" passed="0" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="0" />
+      <test-suite type="TestFixture" id="0-1001" name="SimpleElementsTests" fullname="SimpleElementsProject.SimpleElementsTests" classname="SimpleElementsProject.SimpleElementsTests" runstate="Runnable" testcasecount="9" result="Passed" start-time="2020-11-29 19:18:43Z" end-time="2020-11-29 19:19:58Z" duration="74.832564" total="9" passed="9" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="15">
+        <test-case id="0-1002" name="ClickButtonUsingID0" fullname="SimpleElementsProject.SimpleElementsTests.ClickButtonUsingID0" methodname="ClickButtonUsingID0" classname="SimpleElementsProject.SimpleElementsTests" runstate="Runnable" seed="1325163695" result="Passed" start-time="2020-11-29 19:18:43Z" end-time="2020-11-29 19:18:53Z" duration="9.196904" asserts="1">
+          <properties>
+            <property name="Category" value="Simple HTML elements for automation" />
+            <property name="Author" value="BeataJerzok-Palka" />
+            <property name="Description" value="Validate that correct page is opened after button is clicked" />
+          </properties>
+        </test-case>
+        <test-case id="0-1003" name="ClickButtonUsingID1" fullname="SimpleElementsProject.SimpleElementsTests.ClickButtonUsingID1" methodname="ClickButtonUsingID1" classname="SimpleElementsProject.SimpleElementsTests" runstate="Runnable" seed="1818225018" result="Passed" start-time="2020-11-29 19:18:53Z" end-time="2020-11-29 19:19:02Z" duration="9.725070" asserts="2">
+          <properties>
+            <property name="Category" value="Simple HTML elements for automation" />
+            <property name="Author" value="BeataJerzok-Palka" />
+            <property name="Description" value="Validate that correct page is opened after button is clicked" />
+          </properties>
+        </test-case>
+        <test-case id="0-1004" name="ClickButtonUsingID2" fullname="SimpleElementsProject.SimpleElementsTests.ClickButtonUsingID2" methodname="ClickButtonUsingID2" classname="SimpleElementsProject.SimpleElementsTests" runstate="Runnable" seed="1811000039" result="Passed" start-time="2020-11-29 19:19:02Z" end-time="2020-11-29 19:19:10Z" duration="7.451498" asserts="2">
+          <properties>
+            <property name="Category" value="Simple HTML elements for automation" />
+            <property name="Author" value="BeataJerzok-Palka" />
+            <property name="Description" value="Validate that correct page is opened after button is clicked" />
+          </properties>
+        </test-case>
+        <test-case id="0-1005" name="ClickLink0" fullname="SimpleElementsProject.SimpleElementsTests.ClickLink0" methodname="ClickLink0" classname="SimpleElementsProject.SimpleElementsTests" runstate="Runnable" seed="1451639123" result="Passed" start-time="2020-11-29 19:19:10Z" end-time="2020-11-29 19:19:18Z" duration="7.979978" asserts="1">
+          <properties>
+            <property name="Category" value="Simple HTML elements for automation" />
+            <property name="Author" value="BeataJerzok-Palka" />
+            <property name="Description" value="Validate that correct page is opened after link is clicked" />
+          </properties>
+        </test-case>
+        <test-case id="0-1006" name="ClickLink1" fullname="SimpleElementsProject.SimpleElementsTests.ClickLink1" methodname="ClickLink1" classname="SimpleElementsProject.SimpleElementsTests" runstate="Runnable" seed="1122814455" result="Passed" start-time="2020-11-29 19:19:18Z" end-time="2020-11-29 19:19:27Z" duration="8.820347" asserts="1">
+          <properties>
+            <property name="Category" value="Simple HTML elements for automation" />
+            <property name="Author" value="BeataJerzok-Palka" />
+            <property name="Description" value="Validate that correct page is opened after link is clicked" />
+          </properties>
+        </test-case>
+        <test-case id="0-1007" name="ClickLink2" fullname="SimpleElementsProject.SimpleElementsTests.ClickLink2" methodname="ClickLink2" classname="SimpleElementsProject.SimpleElementsTests" runstate="Runnable" seed="14640710" result="Passed" start-time="2020-11-29 19:19:27Z" end-time="2020-11-29 19:19:36Z" duration="9.423292" asserts="2">
+          <properties>
+            <property name="Category" value="Simple HTML elements for automation" />
+            <property name="Author" value="BeataJerzok-Palka" />
+            <property name="Description" value="Validate that correct page is opened after link is clicked" />
+          </properties>
+        </test-case>
+        <test-case id="0-1008" name="ClickLink3" fullname="SimpleElementsProject.SimpleElementsTests.ClickLink3" methodname="ClickLink3" classname="SimpleElementsProject.SimpleElementsTests" runstate="Runnable" seed="1855420582" result="Passed" start-time="2020-11-29 19:19:36Z" end-time="2020-11-29 19:19:43Z" duration="7.289375" asserts="2">
+          <properties>
+            <property name="Category" value="Simple HTML elements for automation" />
+            <property name="Author" value="BeataJerzok-Palka" />
+            <property name="Description" value="Validate that correct page is opened after link is clicked" />
+          </properties>
+        </test-case>
+        <test-case id="0-1009" name="ClickLink4" fullname="SimpleElementsProject.SimpleElementsTests.ClickLink4" methodname="ClickLink4" classname="SimpleElementsProject.SimpleElementsTests" runstate="Runnable" seed="766419261" result="Passed" start-time="2020-11-29 19:19:43Z" end-time="2020-11-29 19:19:51Z" duration="7.374296" asserts="2">
+          <properties>
+            <property name="Category" value="Simple HTML elements for automation" />
+            <property name="Author" value="BeataJerzok-Palka" />
+            <property name="Description" value="Validate that correct page is opened after link is clicked" />
+          </properties>
+        </test-case>
+        <test-case id="0-1010" name="ClickLink5" fullname="SimpleElementsProject.SimpleElementsTests.ClickLink5" methodname="ClickLink5" classname="SimpleElementsProject.SimpleElementsTests" runstate="Runnable" seed="324126902" result="Passed" start-time="2020-11-29 19:19:51Z" end-time="2020-11-29 19:19:58Z" duration="7.564412" asserts="2">
+          <properties>
+            <property name="Category" value="Simple HTML elements for automation" />
+            <property name="Author" value="BeataJerzok-Palka" />
+            <property name="Description" value="Validate that correct page is opened after link is clicked" />
+          </properties>
+        </test-case>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>
